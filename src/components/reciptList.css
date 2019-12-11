@@ -1,0 +1,12 @@
+ul {
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  list-style: none;
+  color: gray;
+  ;
+}
+
+.heading {
+  color: grey;
+  font-size: 24px;
+}
